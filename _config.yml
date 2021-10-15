@@ -3,7 +3,7 @@ name: "XEDOTHI.COM"
 title: "XE ĐÔ THỊ"
 description: "Bảng giá xe ô tô mới nhất, tin tức cập nhật về các hãng xe, hướng dẫn lái xe..."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/xedothi-logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: /xedothi
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
