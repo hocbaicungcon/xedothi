@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "XEDITHI"
+title: "XE ĐÔ THỊ"
+description: "Bảng giá xe ô tô mới nhất, tin tức cập nhật về các hãng xe, hướng dẫn lái xe..."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /xedothi
@@ -67,6 +67,6 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
